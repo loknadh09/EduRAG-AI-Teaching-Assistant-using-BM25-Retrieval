@@ -1,5 +1,4 @@
-# 🎓 AI Teaching Assistant — Production-Grade RAG Pipeline
-
+# 🎓 EduRAG-AI
 A complete, multi-subject AI teaching system powered by **Retrieval-Augmented Generation (RAG)**, intelligent noise-free ETL, and a comprehensive ML evaluation suite. Designed for **scalable academic support**, **multi-format ingestion**, and **production-grade analytics**.
 
 ---
