@@ -3,7 +3,7 @@ A complete, multi-subject AI teaching system powered by **Retrieval-Augmented Ge
 
 ---
 
-## 📊 Latest Evaluation Metrics (April 18, 2026)
+## 📊 Latest Evaluation Metrics
 
 | Metric | Score | Status |
 |--------|-------|--------|
